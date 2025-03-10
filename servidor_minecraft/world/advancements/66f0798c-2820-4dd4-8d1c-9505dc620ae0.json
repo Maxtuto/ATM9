@@ -115,6 +115,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "old_growth_woodland": "2025-03-10 17:14:50 +0000",
+      "volcanic_plains": "2025-03-10 17:14:47 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-03-10 16:57:21 +0000"
@@ -244,6 +251,18 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-03-10 16:47:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-03-10 17:16:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "volcanic_plains": "2025-03-10 17:14:47 +0000"
     },
     "done": true
   },

@@ -9768,3 +9768,14 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Mar2025 17:10:01.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saturn0599 has made the advancement [Forestree Territree]
 [10Mar2025 17:12:02.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Mar2025 17:12:02.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 17:16:06.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saturn0599 has made the advancement [Gone Bananas!]
+[10Mar2025 17:17:02.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 17:17:02.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 17:22:02.610] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 17:22:02.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 17:22:35.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saturn0599 was doomed to fall by Komodo Dragon
+[10Mar2025 17:27:02.608] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 17:27:02.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Mar2025 17:31:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saturn0599 was pummeled by Capuchin Monkey
+[10Mar2025 17:32:02.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Mar2025 17:32:02.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
